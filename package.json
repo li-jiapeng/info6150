@@ -1,0 +1,19 @@
+{
+  "name": "info6150-jiapeng-li",
+  "version": "1.0.0",
+  "description": "n/a",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/li-jiapeng/info6150.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/li-jiapeng/info6150/issues"
+  },
+  "homepage": "https://github.com/li-jiapeng/info6150#readme"
+}
